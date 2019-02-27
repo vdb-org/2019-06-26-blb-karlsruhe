@@ -140,8 +140,14 @@ and our administrator may contact you if we need any extra information.</h4>
   special instructions.
 {% endcomment %}
 <p id="accessibility">
-  <strong>Accessibility:</strong>
+  <strong>Accessibility:</strong> We are committed to making this workshop
+  accessible to everybody.
+  The workshop organizers have checked that:
 </p>
+<ul>
+  <li>The room is wheelchair / scooter accessible.</li>
+  <li>Accessible restrooms are available.</li>
+</ul>
 <p>
   Materials will be provided in advance of the workshop and
   large-print handouts are available if needed by notifying the
@@ -168,7 +174,7 @@ and our administrator may contact you if we need any extra information.</h4>
         ,
         {% endunless %}
       {% endif %}
-      <a href='mailto:{{email}}'>{{scheuble@ph-freiburg.de}}</a>
+      <a href='mailto:{{email}}'>{{email}}</a>
     {% endfor %}
   {% else %}
     to-be-announced
