@@ -143,10 +143,7 @@ and our administrator may contact you if we need any extra information.</h4>
   special instructions.
 {% endcomment %}
 <p id="accessibility">
-  <strong>Accessibility:</strong>
-</p>
-<p>
-  Materials will be provided in advance of the workshop and
+  <strong>Accessibility:</strong> Materials will be provided in advance of the workshop and
   large-print handouts are available if needed by notifying the
   organizers in advance.  If we can help making learning easier for
   you (e.g. sign-language interpreters, lactation facilities) please
