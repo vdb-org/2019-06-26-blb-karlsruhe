@@ -99,7 +99,7 @@ and our administrator may contact you if we need any extra information.</h4>
   <a href="//maps.google.com/maps?q={{page.latlng}}">Google Maps</a>.
 </p>
 <p>
-  <strong>Room: Stober-Werkstatt (EG) im Wissenstor<strong>
+  <strong>Room: Stober-Werkstatt (EG) im Wissenstor</strong>
 </p>
 {% endif %}
 
