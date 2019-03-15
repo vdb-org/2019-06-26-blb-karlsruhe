@@ -151,6 +151,11 @@ and our administrator may contact you if we need any extra information.</h4>
   attempt to provide them.
 </p>
 
+<p id="caterin">
+  <strong>Further information</strong>:
+	Catering is included during the workshop. For overnight accomodation (not included) please see <a href="https://www.karlsruhe-tourismus.de/planen/uebernachten">Karlsruhe-Tourismus.de</a>. If the participants are interested, a joint dinner is possible at <a href="https://altebank.de/">AlteBank.de</a> (not included). Please let us know when you register.
+</p>
+
 {% comment %}
   CONTACT EMAIL ADDRESS
 
@@ -176,10 +181,6 @@ and our administrator may contact you if we need any extra information.</h4>
   for more information.
 </p>
 
-<p id="caterin">
-  <strong>Further information</strong>:
-	Catering is included during the workshop. For overnight accomodation (not included) please see <a href="https://www.karlsruhe-tourismus.de/planen/uebernachten">Karlsruhe-Tourismus.de</a>. If the participants are interested, a joint dinner is possible at <a href="https://altebank.de/">AlteBank.de</a> (not included). Please let us know when you register.
-</p>
 
 <hr/>
 
