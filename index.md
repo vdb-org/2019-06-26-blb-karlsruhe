@@ -178,7 +178,7 @@ and our administrator may contact you if we need any extra information.</h4>
   {% else %}
     to-be-announced
   {% endif %}
-  for more information.
+  for more information and gramlich@wlb-stuttgart.de (Maria Gramlich) for registration.
 </p>
 
 
