@@ -149,7 +149,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <p id="catering">
   <strong>Further information</strong>:
-	Participation fee: 60 EUR for members of VDB, BIB o.ä., 120 EUR for others. Catering is included during the workshop. For overnight accomodation (not included) please see <a href="https://www.karlsruhe-tourismus.de/planen/uebernachten">Karlsruhe-Tourismus.de</a>. If the participants are interested, a joint dinner is possible at <a href="https://altebank.de/">AlteBank.de</a> (not included). Please let us know when you register.
+	Participation fee: 60 EUR for members of VDB, BIB or similar, 120 EUR for others. Catering is included during the workshop. For overnight accomodation (not included) please see <a href="https://www.karlsruhe-tourismus.de/planen/uebernachten">Karlsruhe-Tourismus.de</a>. If the participants are interested, a joint dinner is possible at <a href="https://altebank.de/">AlteBank.de</a> (not included). Please let us know when you register.
 </p>
 
 {% comment %}
