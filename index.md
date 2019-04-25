@@ -174,7 +174,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   {% else %}
     to-be-announced
   {% endif %}
-	for more information and <a href="mailto:gramlich@wlb-stuttgart.de</a> (Maria Gramlich) for registration.
+	for more information and <a href="mailto:gramlich@wlb-stuttgart.de" </a> (Maria Gramlich) for registration.
 </p>
 
 
