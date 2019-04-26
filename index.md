@@ -174,7 +174,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   {% else %}
     to-be-announced
   {% endif %}
-	for more information and <a href="mailto:gramlich@wlb-stuttgart.de">gramlich@wlb-stuttgart.de</a> (Frau Dr. Gramlich) for registration.
+	(Herr Dr. Scheuble) for more information and <a href="mailto:gramlich@wlb-stuttgart.de">gramlich@wlb-stuttgart.de</a> (Frau Dr. Gramlich) for registration.
 </p>
 
 
