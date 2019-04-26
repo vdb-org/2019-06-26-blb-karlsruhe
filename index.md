@@ -1,5 +1,4 @@
 ---
-<img src="https://www.vdb-online.org/img/vdb/vdb-top_cd2016_gruen.jpg" alt="https://www.vdb-online.org/img/vdb/vdb-top_cd2016_gruen.jpg" width="1920" height="53">
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "lc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
 venue: "<strong>Library Carpentry für die Bibliothek</strong> <br><small>Workshop des VDB-Regionalverbands Südwest an der Badischen Landesbibliothek</small>"      # brief name of host site without address (e.g., "Euphoric State University")
@@ -47,7 +46,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </iframe>
 {% endif %}
 
-
+<img src="https://www.vdb-online.org/img/vdb/vdb-top_cd2016_gruen.jpg" alt="https://www.vdb-online.org/img/vdb/vdb-top_cd2016_gruen.jpg" class="shrinkToFit" width="1920" height="53">
 <h2 id="general">General Information</h2>
 
 {% comment %}
