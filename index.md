@@ -46,7 +46,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </iframe>
 {% endif %}
 
-<img src="https://www.vdb-online.org/img/vdb/vdb-top_cd2016_gruen.jpg" alt="https://www.vdb-online.org/img/vdb/vdb-top_cd2016_gruen.jpg"  width="1140" height="96">
+<img src="https://www.vdb-online.org/img/vdb/vdb-top_cd2016_gruen.jpg" alt="https://www.vdb-online.org/img/vdb/vdb-top_cd2016_gruen.jpg"  width="900" height="96">
 
 <h2 id="general">General Information</h2>
 
