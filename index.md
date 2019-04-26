@@ -1,4 +1,6 @@
+
 <img src="https://www.vdb-online.org/img/vdb/vdb-top_cd2016_gruen.jpg" alt="https://www.vdb-online.org/img/vdb/vdb-top_cd2016_gruen.jpg" class="shrinkToFit" width="1920" height="53">
+
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "lc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
