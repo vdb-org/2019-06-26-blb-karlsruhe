@@ -539,6 +539,30 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% endcomment %}
 </div> {% comment %} End of 'Python' section. {% endcomment %}
 
+
+ <div id="openrefine"> {% comment %} Start of 'OpenRefine' section. {% endcomment %}
+	<h3>OpenRefine</h3>
+
+<p>
+For this lesson you will need OpenRefine and a web browser. Note: this is a Java program that runs on your machine (not in the cloud). It runs inside a web browser, but no web connection is needed.
+</p>
+<div class="row">
+    <div class="col-md-4">
+      <h4 id="openrefine-windows">Windows</h4>
+	<ol>
+		<li>Check that you have either the Firefox or the Chrome browser installed and set as your default browser. OpenRefine runs in your default browser. It will not run correctly in Internet Explorer.</li>
+		<li>Download software from <a href="http://openrefine.org/">http://openrefine.org</a></li>
+		<li>Create a new directory called OpenRefine.</li>
+		<li>Unzip the downloaded file into the OpenRefine directory by right-clicking and selecting "Extract ...".</li>
+		<li>Go to your newly created OpenRefine directory.</li>
+		<li>Launch OpenRefine by clicking openrefine.exe (this will launch a command prompt window, but you can ignore that - just wait for OpenRefine to open in the browser).</li>
+		       
+
+</div> {% comment %} End of 'OpenRefine' section. {% endcomment %} 
+
+
+
+
 <div id="r"> {% comment %} Start of 'R' section. {% endcomment %}
   <h3>R</h3>
 
