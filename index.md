@@ -572,6 +572,18 @@ For this lesson you will need OpenRefine and a web browser. Note: this is a Java
 </ol>
 </div>
 
+
+<div class="col-md-4">
+	<h4 id="openrefine-linux">Linux</h4>
+	<ol>
+	<li>
+	Check that you have either the Firefox or the Chrome browser installed and set as your default browser. OpenRefine runs in your default browser.</li>
+		<li>Download software from <a href="http://openrefine.org/">http://openrefine.org</a></li>
+		<li>Create a new directory called OpenRefine.</li>
+		<li>Unzip the downloaded file into the OpenRefine directory by double-clicking it.</li>
+		<li>Go to your newly created OpenRefine directory.</li>
+	</ol>
+	</div>
 		       
 
 </div> {% comment %} End of 'OpenRefine' section. {% endcomment %} 
