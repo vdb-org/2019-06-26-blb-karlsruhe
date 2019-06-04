@@ -556,6 +556,7 @@ For this lesson you will need OpenRefine and a web browser. Note: this is a Java
 		<li>Unzip the downloaded file into the OpenRefine directory by right-clicking and selecting "Extract ...".</li>
 		<li>Go to your newly created OpenRefine directory.</li>
 		<li>Launch OpenRefine by clicking openrefine.exe (this will launch a command prompt window, but you can ignore that - just wait for OpenRefine to open in the browser).</li>
+		<li>If you are using a different browser, or if OpenRefine does not automatically open for you, point your browser at http://127.0.0.1:3333/ or http://localhost:3333 to use the program.</li>
 	    </ol>
 	</div>	
 		
@@ -582,6 +583,9 @@ For this lesson you will need OpenRefine and a web browser. Note: this is a Java
 		<li>Create a new directory called OpenRefine.</li>
 		<li>Unzip the downloaded file into the OpenRefine directory by double-clicking it.</li>
 		<li>Go to your newly created OpenRefine directory.</li>
+		<li>Launch OpenRefine by entering ./refine into the terminal within the OpenRefine directory.
+
+If you are using a different browser, or if OpenRefine does not automatically open for you, point your browser at http://127.0.0.1:3333/ or http://localhost:3333 to use the program.</li>
 	</ol>
 	</div>
 		       
